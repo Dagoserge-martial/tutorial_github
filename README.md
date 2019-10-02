@@ -44,9 +44,9 @@ En tant qu'ingénieurs en logiciel, nous ne terminons généralement pas un proj
 
 - Ouvrir votre dossier dans l'invite de commande et executer la commande suivante
 
-`
->> git init
-`
+```bash
+git init
+```
 ![](https://miro.medium.com/max/3232/1*wvxkOSThq-g1xf5Yurs0DQ.png)
 
 

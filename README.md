@@ -53,7 +53,7 @@ git init
 
 ## Référence de commande
 
-- ```bash  git init ``` initialise le répertoire actuel en tant que dépôt Git.
+- ```bash  git init ``` - initialise le répertoire actuel en tant que dépôt Git.
 
 
 

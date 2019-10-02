@@ -20,5 +20,38 @@ Télécharger et installer git
 [ici](https://duckduckgo.com).
 
 ### Github desktop
-[ici](https://desktop.github.com/).  
-![](https://desktop.github.com/images/github-desktop-screenshot-mac.png | width=100)
+Télécharger [ici](https://desktop.github.com/).
+
+### Créer un compte Github
+
+https://github.com/
+
+### Git vs. GitHub
+
+Je vois souvent les deux termes utilisés de manière interchangeable, mais il y a une grande différence:
+
+- **Git** est l'outil / logiciel / programme utilisé pour garder trace de vos fichiers de projet. Il s'agit du système de «contrôle de version», où le mot «version» fait référence aux modifications ou révisions apportées à votre projet au fil du temps.
+- **GitHub** , à la base, est simplement un site Web conçu pour héberger des projets suivis à l’aide de Git . Comme il ne s'agit que d'un «service d'hébergement», ce n'est pas le seul site Web qui le fait - d'autres sites Web peuvent héberger des projets Git, tels que [Bitbucket](https://bitbucket.org/) , bien que GitHub soit sans doute le plus populaire. GitHub ajoute de nombreux outils et vues de votre projet qui vont de pair avec le contrôle de version et l'aide à la collaboration avec d'autres personnes sur votre projet (plus tard dans l'article, je parlerai d'une fonctionnalité, les demandes d'extraction).
+
+## Pourquoi utiliser Git?
+
+En tant qu'ingénieurs en logiciel, nous ne terminons généralement pas un projet en une seule fois et nous avons généralement un plan pour structurer le travail à effectuer. Si vous travaillez sur un projet personnel pendant plusieurs jours, semaines ou plusieurs jours, il devient avantageux de garder une trace de ce que vous avez accompli un jour donné et le pouvoir de revenir en arrière, temporairement ou non, peut être modifié. Lorsque vous collaborez avec d'autres membres d'une équipe, cela devient encore plus important: **quels fichiers ont été modifiés par quels collaborateurs**? **Qu'en est-il lorsque plusieurs collaborateurs souhaitent apporter des modifications au même fichier**? Comme mentionné précédemment, la fonction principale de Git est le «contrôle de version» - l'organisation et le suivi des modifications apportées à un projet au fil du temps, que ce soit uniquement vous-même ou une équipe qui y travaille.
+
+
+## Ok, On peut commencer
+
+### Utiliser git en ligne de commande
+
+- Ouvrir votre dossier dans l'invite de commande et executer la commande suivante
+
+`
+>> git init
+`
+![](https://miro.medium.com/max/3232/1*wvxkOSThq-g1xf5Yurs0DQ.png)
+
+
+
+
+
+
+

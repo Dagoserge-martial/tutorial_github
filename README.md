@@ -55,9 +55,31 @@ git init
 
 - ```bash  git init ``` - initialise le répertoire actuel en tant que dépôt Git.
 
+- ```bash git add <path>``` - ajoute le fichier ou le répertoire à la zone de transfert.
+Utilisez ```bash git add -A``` pour mettre en scène tous les changements.
+
+- ```bash git commit -m "votre message "``` - enveloppe la zone d'activation dans une validation, décrite par le message donné.
+
+- ```bash git status``` - lister les modifications actuellement non mises en scène et mises en scène.
+
+- ```bash git remote add <name> <URL>``` - Ajoute un nouveau référentiel distant à l'URL spécifiée, qui peut être référencé à l'aide du nom fourni.
+
+- ```bash git remote -v``` - Voir les télécommandes actuellement configurées.
+
+- ```bash git push <remote> <branch>``` - Pousse la branche spécifiée vers le référentiel distant. Utilisez ```bash -u``` pour configurer le suivi afin que vous puissiez l'utiliser la prochaine fois ```bash git push```.
+
+- ```bash git clone <URL>``` - Descend le dépôt distant sur votre machine locale (recuperer un projet github sur votre machine).
+
+- ```bash git pull <remote> <branch>``` - Descend la branche distante et fusionne toutes les nouvelles modifications dans la branche actuelle. Si vous avez déjà poussé avec l'```bash -u``` indicateur, vous pouvez omettre la télécommande et la branche.
 
 
 
+
+...
+
+
+
+**NB :** La formation sera plus basé sur github desktop prevoir github Desktop sur votre machine 
 
 
 

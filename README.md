@@ -49,6 +49,12 @@ git init
 ```
 ![](/capture/gitinit.png)
 
+- Nous verrons un exemple complet lors de la formation mais avant je vous presente quelque commande qui seront mieux expliqué au cours de la formation
+
+## Référence de commande
+
+- ```bash  git init ``` initialise le répertoire actuel en tant que dépôt Git.
+
 
 
 

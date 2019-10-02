@@ -20,4 +20,5 @@ Télécharger et installer git
 [ici](https://duckduckgo.com).
 
 ### Github desktop
-[ici](https://desktop.github.com/).  ![Github Desktop](https://desktop.github.com/images/github-desktop-screenshot-mac.png =100x20)
+[ici](https://desktop.github.com/).  
+![](https://desktop.github.com/images/github-desktop-screenshot-mac.png =100x20)

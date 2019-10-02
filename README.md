@@ -21,4 +21,4 @@ Télécharger et installer git
 
 ### Github desktop
 [ici](https://desktop.github.com/).  
-![](https://desktop.github.com/images/github-desktop-screenshot-mac.png)
+![](https://desktop.github.com/images/github-desktop-screenshot-mac.png | width=100)

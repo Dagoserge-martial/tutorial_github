@@ -47,7 +47,7 @@ En tant qu'ingénieurs en logiciel, nous ne terminons généralement pas un proj
 ```bash
 git init
 ```
-![](https://miro.medium.com/max/3232/1*wvxkOSThq-g1xf5Yurs0DQ.png)
+![](/capture/gitinit.png)
 
 
 
